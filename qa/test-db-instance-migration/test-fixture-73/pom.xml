@@ -15,7 +15,7 @@
      the version is managed in a property. Thus we use explicit versions everywhere. -->
   <properties>
 <!--     <camunda.version.current>7.3.0</camunda.version.current> -->
-    <camunda.version.current>7.2.0</camunda.version.current>
+    <camunda.version.previous>7.2.0</camunda.version.previous>
   </properties>
 
   <dependencyManagement>
